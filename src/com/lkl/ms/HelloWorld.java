@@ -13,7 +13,7 @@ public class HelloWorld {
 		int b=43862;//时时彩开奖号码
 		long s1=6000001;
 		int z=3199;
-		System.out.println((a+b)%z+s1);
+		System.out.println((a+b)%z+s1+"1");
 	}
 
 }
